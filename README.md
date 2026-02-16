@@ -89,20 +89,20 @@ Digital payments dominate, supporting online and card-first sales strategies.
 
 ## Revenue Performance Insights
 Top 5 Artists by Revenue
-1. Craig Alan | £86,707.66
-2. Alexander Weaver	| £75,787.71
-3. Doug Hyde	| £73,308.67
-4. Rozanne Bell	| £68,620.41
-5. Jeff Rowland	| £64,500.11
+1. Craig Alan £86,707.66
+2. Alexander Weaver	£75,787.71
+3. Doug Hyde	£73,308.67
+4. Rozanne Bell	£68,620.41
+5. Jeff Rowland	£64,500.11
 
 A small group of artists generates a significant share of total revenue, highlighting a Pareto effect.
 
 ## Revenue by Age Group
-- 35–44	273,938.54
-- 25–34	193,058.80
-- 45–54	176,827.02
-- 18–24	99,054.06
-- 55+	82,612.21
+- 35–44	£273,938.54
+- 25–34	£193,058.80
+- 45–54	£176,827.02
+- 18–24	£99,054.06
+- 55+	£82,612.21
 
 Customers aged 25–44 generate the majority of revenue, making them the core target demographic.
 
