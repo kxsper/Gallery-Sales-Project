@@ -1,6 +1,6 @@
 # Gallery Sales Data Cleaning Project
 
-**Cleaned_Gallery_Sales_Data** – A cleaned, analysis-ready version of messy gallery sales records.
+**Cleaned_Gallery_Sales_Data** – A cleaned version of dirty gallery sales records.
 
 Current date context: February 2026
 
@@ -46,6 +46,8 @@ This project takes a dirty Python generated CSV export (`Dirty_Gallery_Sales_Dat
 - **Kept intentionally**  
   Negative quantities (real returns/refunds)  
   Future dates (2025–2026 entries appear valid in context)
+
+  ## All KPIs below are calculated using the cleaned dataset.
 
 ## Total Revenue
 
