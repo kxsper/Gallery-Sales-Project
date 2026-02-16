@@ -6,7 +6,7 @@ Current date context: February 2026
 
 ## Project Overview
 
-This project takes a dirty Python generated CSV export (`Dirty_Gallery_Sales_Data.csv`), which mimics an art gallery’s sales system, and transforms it into a clean, consistent, and reliable dataset suitable for reporting, dashboards, financial analysis, and machine learning.
+This project takes a dirty Python generated CSV export (`Dirty_Gallery_Sales_Data.csv`), which mimics an art gallery’s sales system and transforms it into a clean, consistent and reliable dataset suitable for reporting, dashboards, financial analysis and machine learning.
 The end goal is to analyse the cleaned data to generate actionable insights and meaningful KPIs that support data driven business decisions.
 
 **Original data issues included:**
