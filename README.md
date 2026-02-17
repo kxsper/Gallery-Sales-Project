@@ -1,9 +1,5 @@
 # Gallery Sales Data Cleaning Project
 
-**Cleaned_Gallery_Sales_Data** – A cleaned version of dirty gallery sales records.
-
-Current date context: February 2026
-
 ## Project Overview
 
 This project takes a dirty Python generated CSV export (`Dirty_Gallery_Sales_Data.csv`), which mimics an art gallery’s sales system and transforms it into a clean, consistent and reliable dataset suitable for reporting, dashboards, financial analysis and machine learning.
