@@ -137,19 +137,22 @@ This dependency creates both opportunity (leveraging star power for brand visibi
 - 55+ £82,612.21  
 
 Buyers aged 25–44 (millennials and older Gen Z) generate over 50% of revenue, confirming them as the gallery's core demographic. This mirrors global 2025 collector surveys (Art Basel & UBS): millennials and Gen Z now represent 70–75% of active high-net-worth collectors, with higher allocation to art (up to 26% of wealth for Gen Z) and broader tastes (emerging, digital, and affordable works). Younger buyers prioritize emotional resonance, accessibility, and lifestyle alignment over traditional prestige pieces.
-Recommendation: Tailor marketing and exhibitions toward 25–44-year-olds — emphasize social media (Instagram/TikTok), online previews, limited-edition prints, and experiential events (e.g., artist talks, pop-ups). This aligns with 2025–2026 shifts: digital-native collectors drive demand for accessible art, while older segments (55+) remain steady but lower-volume
+
+**Recommendation:** Tailor marketing and exhibitions toward 25–44-year-olds, you need to emphasize social media (Instagram/TikTok), online previews, limited edition prints and experiential events (e.g., artist talks, pop-ups). This aligns with 2025–2026 shifts: digital-native collectors drive demand for accessible art, while older segments (55+) remain steady but lower volume
 
 ## Revenue by Buyer Type 
 ![Revenue Share by Buyer Type](images/revenue_by_buyer_type.png)
 
 New customers dominate (68% of transactions), while repeat buyers (32%) contribute disproportionately to revenue due to higher average spend and loyalty. Industry benchmarks show repeat customers often generate 3× more lifetime value than first-timers, yet galleries frequently allocate 80%+ of effort to acquisition over retention.
-Recommendation: Implement targeted retention tactics — loyalty discounts, exclusive previews, personalized follow-ups, or a simple CRM/tracking system for past buyers. Increasing repeat rate by even 5–10% could significantly boost profitability, especially as new-buyer acquisition costs rise in a competitive 2026 market.
+
+**Recommendation:** Implement targeted retention tactics which use loyalty discounts, exclusive previews, personalized follow-ups, or a simple CRM/tracking system for past buyers. Increasing repeat rate by even 5–10% could significantly boost profitability, especially as new buyer acquisition costs rise in a competitive 2026 market.
 
 ## Monthly Revenue Trend  
 ![Monthly Revenue Trend](images/monthly_revenue_trend.png)
 
 Revenue shows clear seasonality and variability, with peaks likely tied to exhibitions, holidays, pay cycles, or seasonal buying patterns (e.g., end-of-year gifting, spring/summer events). Art market data indicates typical seasonality: stronger Q4 (holiday/art fair season) and Q1/Q2 (post-tax, spring fairs), with summer slowdowns — patterns that hold in gallery and online sales.
-Recommendation: Plan inventory and promotions around observed peaks (e.g., boost marketing in high-revenue months). Use this trendline for forecasting — identify anomalies (e.g., dips) to investigate external factors (economic news, gallery events) and smooth revenue through consistent online engagement or off-peak incentives.
+
+**Recommendation:** Plan inventory and promotions around observed peaks (boost marketing in high revenue months). Use this trendline for forecasting and identifying anomalies (dips) to investigate external factors (economic news, gallery events) and smooth revenue through consistent online engagement or off peak incentives.
 
 ## Key Business Insights 
 **1. Strong Revenue Performance**
