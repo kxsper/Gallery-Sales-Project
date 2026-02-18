@@ -28,7 +28,7 @@ Cleaned Table
 Python – Advanced Analysis & Visualization 
 • Re-imports cleaned CSV (using zero config file locator)
 • Computes KPIs: Total Revenue, AOV, Repeat Rate, Return Rate
-• Aggregations: Top 5 Artists by Revenue, Revenue by Age Group / Buyer Type / Artwork Type
+• Aggregations: Top 5 Artists by Revenue (Revenue by Age Group / Buyer Type / Artwork Type)
 • Payment method distribution
 • Timeseries: Monthly revenue trend
 • Generates plots (saved as PNG):
