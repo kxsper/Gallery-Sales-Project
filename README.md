@@ -25,7 +25,7 @@ SQLite – Profiling, Cleaning & Transformation
 Cleaned Table
 • Cleaned_Gallery_Sales_Data.csv (ready for analysis)
 ↓
-Python – Advanced Analysis & Visualization (New Step)
+Python – Advanced Analysis & Visualization 
 • Re-imports cleaned CSV (using zero config file locator)
 • Computes KPIs: Total Revenue, AOV, Repeat Rate, Return Rate
 • Aggregations: Top 5 Artists by Revenue, Revenue by Age Group / Buyer Type / Artwork Type
