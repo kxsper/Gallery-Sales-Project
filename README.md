@@ -125,7 +125,7 @@ Insights & Business Recommendations
 
 These five artists alone account for a substantial portion of the £891,728 total revenue (approximately 40–45% based on the figures), demonstrating a classic Pareto (80/20) effect common in the art market. Recent 2025 reports (Art Basel & UBS Global Art Market Report) highlight similar concentration: top-tier artists and high-end works drive disproportionate sales, while mid-tier and emerging artists often struggle amid economic recalibration.
 This dependency creates both opportunity (leveraging star power for brand visibility) and risk (vulnerability if key artists reduce output, shift galleries, or face market saturation).
---
+----
 **Recommendation:** Diversify artist promotion and allocate marketing budget to mid-tier performers (e.g., via targeted social campaigns or collaborations) to build a more balanced portfolio and mitigate single-artist risk, aligning with 2025–2026 trends toward emerging and undervalued artists gaining traction among younger collectors.
 
 ## Revenue by Age Group 
