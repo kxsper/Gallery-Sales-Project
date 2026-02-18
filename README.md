@@ -10,19 +10,37 @@ The end goal is to analyse the cleaned data to generate actionable insights and 
 ## Project Pipeline
 ```
 1 Dirty CSV (Python generated)
-       ↓
-Python (Data generation which mimics real art gallery sales system)
-       ↓
-SQLite (Profiling, cleaning & transformation)
-  • Deduplication via window functions
-  • Monetary value repair & recalculation
-  • Date standardisation & validation
-  • Text normalisation & age group standardisation
-       ↓
-1 Cleaned Table
-  • Cleaned_Gallery_Sales_Data (420 unique transactions)
-       ↓
-Insights & KPIs (Revenue, AOV, retention, artist performance)
+↓
+Python – Data Generation
+• Simulates realistic art gallery sales system (460 rows with intentional issues)
+• Creates dirty data: duplicates, invalid prices, inconsistent formats, missing values
+↓
+SQLite – Profiling, Cleaning & Transformation
+• Deduplication (window functions + ROW_NUMBER)
+• Monetary value repair & recalculation (Total_GBP fixes)
+• Date standardisation & validation
+• Text normalisation & age group bucketing
+• Output: 420 unique, high-quality transactions
+↓
+Cleaned Table
+• Cleaned_Gallery_Sales_Data.csv (ready for analysis)
+↓
+Python – Advanced Analysis & Visualization (New Step)
+• Re-imports cleaned CSV (using zero config file locator)
+• Computes KPIs: Total Revenue, AOV, Repeat Rate, Return Rate
+• Aggregations: Top 5 Artists by Revenue, Revenue by Age Group / Buyer Type / Artwork Type
+• Payment method distribution
+• Time-series: Monthly revenue trend
+• Generates publication-ready plots (saved as PNG):
+– Bar: Top 5 Artists by Revenue
+– Pie: Revenue Share by Buyer Type
+– Bar: Revenue by Age Group
+– Line: Monthly Revenue Trend
+↓
+Insights & Business Recommendations
+• £891K+ total revenue, £2,123 AOV, 32% repeat customers
+• Artist concentration risks, age group targeting, loyalty program opportunities
+• Visuals embedded in README for quick scanning
 ```
 ---
 
