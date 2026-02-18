@@ -207,13 +207,14 @@ This dataset supports long term business tracking using the following KPIs:
 
 ## Files in this Repository
 
-| File                                   | Description                                      |
-|----------------------------------------|--------------------------------------------------|
-| `Dirty_Gallery_Sales_Data.csv`         | Original dirty generated file                    |
-| `Cleaned_Gallery_Sales_Data.csv`       | Cleaned table                                    |
-| `Clean_Gallery_Sales_Data.sql`         | Full SQL script to create the clean table        |
-| `Generate_Dirty_Gallery_Sales_Data.py` | Full Python script to gennerate the dirty file   |
-| `README.md`                            | Current file                                     |
+| File                                   | Description                                                      |
+|----------------------------------------|----------------------------------------------------------------- |
+| `Dirty_Gallery_Sales_Data.csv`         | Original dirty generated file                                    |
+| `Cleaned_Gallery_Sales_Data.csv`       | Cleaned table                                                    |
+| `Clean_Gallery_Sales_Data.sql`         | SQL script to create the clean csv file                          |
+| `Generate_Dirty_Gallery_Sales_Data.py` | Python script to gennerate the dirty csv file                    |   
+| `Visualise_Insights.py`                | Python script to re-import clean csv file and generate visuals   |
+| `README.md`                            | Current file                                                     |
 
 ## How to Use
 
