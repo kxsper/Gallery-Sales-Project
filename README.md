@@ -30,8 +30,8 @@ Python – Advanced Analysis & Visualization
 • Computes KPIs: Total Revenue, AOV, Repeat Rate, Return Rate
 • Aggregations: Top 5 Artists by Revenue, Revenue by Age Group / Buyer Type / Artwork Type
 • Payment method distribution
-• Time-series: Monthly revenue trend
-• Generates publication-ready plots (saved as PNG):
+• Timeseries: Monthly revenue trend
+• Generates plots (saved as PNG):
 – Bar: Top 5 Artists by Revenue
 – Pie: Revenue Share by Buyer Type
 – Bar: Revenue by Age Group
